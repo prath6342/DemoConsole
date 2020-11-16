@@ -1,0 +1,11 @@
+F:\AmeyaTraining\11-11-2020\DemoConsole\bin\Debug\netcoreapp2.0\DemoConsole.deps.json
+F:\AmeyaTraining\11-11-2020\DemoConsole\bin\Debug\netcoreapp2.0\DemoConsole.runtimeconfig.json
+F:\AmeyaTraining\11-11-2020\DemoConsole\bin\Debug\netcoreapp2.0\DemoConsole.runtimeconfig.dev.json
+F:\AmeyaTraining\11-11-2020\DemoConsole\bin\Debug\netcoreapp2.0\DemoConsole.dll
+F:\AmeyaTraining\11-11-2020\DemoConsole\bin\Debug\netcoreapp2.0\DemoConsole.pdb
+F:\AmeyaTraining\11-11-2020\DemoConsole\obj\Debug\netcoreapp2.0\DemoConsole.csprojAssemblyReference.cache
+F:\AmeyaTraining\11-11-2020\DemoConsole\obj\Debug\netcoreapp2.0\DemoConsole.csproj.CoreCompileInputs.cache
+F:\AmeyaTraining\11-11-2020\DemoConsole\obj\Debug\netcoreapp2.0\DemoConsole.AssemblyInfoInputs.cache
+F:\AmeyaTraining\11-11-2020\DemoConsole\obj\Debug\netcoreapp2.0\DemoConsole.AssemblyInfo.cs
+F:\AmeyaTraining\11-11-2020\DemoConsole\obj\Debug\netcoreapp2.0\DemoConsole.dll
+F:\AmeyaTraining\11-11-2020\DemoConsole\obj\Debug\netcoreapp2.0\DemoConsole.pdb
